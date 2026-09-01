@@ -5,7 +5,7 @@ This amplifier is specifically designed for the TE805 Piezoelectric Acceleromete
 
  Professional building vibration measurement typically requires expensive, specialized equipment. Inspired by the research of Dolezal et al. (2024), this project utilizes an Integrated Electronics Piezo-Electric (IEPE) accelerometer coupled with a sound recorder.
 
-The TE805 was selected for its wide frequency response (1–8000 Hz) and its operating voltage range. The circuit schematic was designed in KiCAD, and simulations were conducted in LTspice to determine the optimal amplification bandwidth(1Hz<).
+The TE805 was selected for its wide frequency response (1–8000 Hz) and its operating voltage range. The circuit schematic was designed in KiCAD, and simulations were built in LTspice to determine the optimal amplification bandwidth(1Hz<).
 
 **Key Components:**
 
