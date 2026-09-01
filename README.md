@@ -18,7 +18,7 @@ Op-amp: TI OPA1656 ([Link](https://www.ti.com/product/OPA1656))
 Project: Intangible Resonances
 https://ahonda.org/Artworks/intangible-resonances
 
-Study: Dolezal, F.; Reichenauer, A.; Wilfling, A.; Neusser, M.; Prislan, R. Recording, Processing, and Reproduction of Vibrations Produced by Impact Noise Sources in Buildings. _Acoustics_ **2024**, _6_, 97-113. https://doi.org/10.3390/acoustics6010006
+Study: Dolezal, F.; Reichenauer, A.; Wilfling, A.; Neusser, M.; Prislan, R. Recording, Processing, and Reproduction of Vibrations Produced by Impact Noise Sources in Buildings. _Acoustics_ 2024, _6_, 97-113. https://doi.org/10.3390/acoustics6010006
 
 Schematic
 ![Schematic](img/opa1656_non_invert_sch.png)
