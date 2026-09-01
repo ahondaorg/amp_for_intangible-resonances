@@ -3,7 +3,7 @@ Signal Amplifier design for the sci-art installation "Intangible Resonances"
 
 This amplifier is specifically designed for the TE805 Piezoelectric Accelerometer to convert its output into an audio signal for further processing. The objective is to measure building vibrations (approximately 1–2000 Hz) in real time.
 
- Professional building vibration measurement typically requires expensive, specialized equipment. Inspired by the research of Dolezal et al. (2024), this project utilizes an Integrated Electronics Piezo-Electric (IEPE) accelerometer coupled with a sound recorder.
+ Professional building vibration measurement typically requires expensive, specialized equipment. Inspired by the research of Dolezal et al. (2024), this project utilizes an Integrated Electronics Piezo-Electric (IEPE) accelerometer coupled with a sound interface.
 
 The TE805 was selected for its wide frequency response (1–8000 Hz) and its operating voltage range. The circuit schematic was designed in KiCAD, and simulations were built in LTspice to determine the optimal amplification bandwidth(1Hz<).
 
